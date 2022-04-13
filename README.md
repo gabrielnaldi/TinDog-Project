@@ -1,2 +1,1 @@
-# TinDog-Project
-Repository made for TinDog project.
+TinDog Starting Files
