@@ -140,3 +140,46 @@ h3{
     padding: 3% 2%;
 
 }
+
+/* CTA */
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+}
+.cta-title{
+    color: white;
+    padding: 7% 15% 3%;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
+
+.cta-button{
+    margin: 2% 2% 8%;
+}
+
+/* FIM CTA */
+
+/* Footer */
+#footer{
+    background-color: white;
+    text-align: center;
+    padding: 10%;
+}
+
+.footer-social{
+    padding-bottom: 3%;
+}
+.footer-link{
+    padding: 0 2%;
+}
+@media (max-width: 1028px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
